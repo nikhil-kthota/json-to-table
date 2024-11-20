@@ -1,0 +1,33 @@
+body{
+background-color: rgb(154, 59, 59);
+color: rgb(242, 236, 190);
+font-family:'Courier New', Courier, monospace;
+}
+.start{
+background-color: rgb(192, 130, 97);
+min-height: 300px;
+max-width: auto;
+}
+h1{
+    color: beige;
+    align-content: center;
+}
+input[type="file"] {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #000000;
+}
